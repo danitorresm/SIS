@@ -1,0 +1,40 @@
+@{
+    ViewData["Title"] = "Crear Nuevo Empleado Daniel";
+}
+
+<h1>Datos para @ViewData["Title"]</h1>
+<div class="row">
+    <div class="col-md-8 border justify-content-between"> 
+        <form asp-action="Create" method="post">
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Nombres </label>
+                <input type="text" class="form-control" id="Name" name="Name"> 
+
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">Apellidos</label>
+                <input type="text" class="form-control" id="LastName" name="LastName">
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">Cedula</label>
+                <input type="text" class="form-control" id="Cedula" name="Cedula">
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">Email</label>
+                <input type="email" class="form-control" id="Email" name="Email">
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">Telefono</label>
+                <input type="text" class="form-control" id="Phone" name="Phone">
+            </div>
+             <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">Estado</label>
+                <select name="Status" id="Status" class="form-control">
+                    <option value="Activo">Activo</option>
+                    <option value="Inactivo">Inactivo</option>
+                </select>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>       
+    </div>
+</div>

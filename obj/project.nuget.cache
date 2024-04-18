@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x1/9+lVmIPjd5WjhV4eB3qKnUxN1Ir0XglS5BDRSgGCaXRGnYE+2kHfHWnLpLBY4w6+Kz4gUW/eDVKSUH5WkDw==",
+  "dgSpecHash": "o/EvJN+H7J08CyvabAu6ZgWz7xn2HJwO3vqhedhPhQskO69Jm2h9jWAsTfXAh6PLEIVwrEyA68etOWVQyZIZ6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dan\\Downloads\\SIS\\SIS\\SIS.csproj",
+  "projectFilePath": "C:\\Users\\Dan\\SIS\\SIS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dan\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.3\\microsoft.entityframeworkcore.8.0.3.nupkg.sha512",
     "C:\\Users\\Dan\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.3\\microsoft.entityframeworkcore.abstractions.8.0.3.nupkg.sha512",

@@ -724,11 +724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dan\\Downloads\\SIS\\SIS\\SIS.csproj",
+      "projectUniqueName": "C:\\Users\\Dan\\SIS\\SIS.csproj",
       "projectName": "SIS",
-      "projectPath": "C:\\Users\\Dan\\Downloads\\SIS\\SIS\\SIS.csproj",
+      "projectPath": "C:\\Users\\Dan\\SIS\\SIS.csproj",
       "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dan\\Downloads\\SIS\\SIS\\obj\\",
+      "outputPath": "C:\\Users\\Dan\\SIS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dan\\AppData\\Roaming\\NuGet\\NuGet.Config",

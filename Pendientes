@@ -1,5 +1,6 @@
 1.bonton inicio sesion en home :)
+
 2.mensaje de error en credenciales
 3.guardar el registro de la fecha en la tabla   
     =>(ensayar formulario con el metodo post como el de crear employe) 
-4.como respresento una llave foranea en un modelo c#
+4.como respresento una llave foranea en un modelo c#(ya conecte las tablas y me muestra el id necesito que me mustre le resto de la informacion)

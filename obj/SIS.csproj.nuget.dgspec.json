@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dan\\SIS\\SIS.csproj": {}
+    "C:\\Users\\Dan\\desktop\\sis\\SIS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dan\\SIS\\SIS.csproj": {
+    "C:\\Users\\Dan\\desktop\\sis\\SIS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dan\\SIS\\SIS.csproj",
+        "projectUniqueName": "C:\\Users\\Dan\\desktop\\sis\\SIS.csproj",
         "projectName": "SIS",
-        "projectPath": "C:\\Users\\Dan\\SIS\\SIS.csproj",
+        "projectPath": "C:\\Users\\Dan\\desktop\\sis\\SIS.csproj",
         "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dan\\SIS\\obj\\",
+        "outputPath": "C:\\Users\\Dan\\desktop\\sis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
